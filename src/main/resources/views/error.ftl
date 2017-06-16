@@ -1,0 +1,7 @@
+<html DOCTYPE=html>
+<head>
+</head>
+<body>
+	<h1>error</h1>
+</body>
+</html>
